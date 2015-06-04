@@ -1,4 +1,4 @@
-# Crazyflie Android client
+# CrazyPony Android Remote #
 
-The Crazyflie Android client will permits to fly the Crazyflie micro
-quadcopter from an Android phone using the Crazyradio USB dongle.
+CrazyPony 官方的Android遥控App，体验、操控都不太友好。
+因此Fork了官方的代码，做下优化。
